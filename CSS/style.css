@@ -1,0 +1,26 @@
+body {
+  font: 20px arial, sans-serif;
+}
+
+.navbar {
+  background-color: #bfc67d;
+}
+
+.ehmole {
+  background-color: grey;
+  color: white;
+}
+
+.margin {
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+
+.ehmole¹ {
+  background-color: #c6ba7d;
+}
+
+.bg-footer {
+  background-color: #c6a37d;
+  color: white;
+}
